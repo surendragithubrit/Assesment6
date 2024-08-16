@@ -1,0 +1,14 @@
+C:\.net\Assesment6\Week6Assesment\bin\Debug\net8.0\Week6Assesment.exe
+C:\.net\Assesment6\Week6Assesment\bin\Debug\net8.0\Week6Assesment.deps.json
+C:\.net\Assesment6\Week6Assesment\bin\Debug\net8.0\Week6Assesment.runtimeconfig.json
+C:\.net\Assesment6\Week6Assesment\bin\Debug\net8.0\Week6Assesment.dll
+C:\.net\Assesment6\Week6Assesment\bin\Debug\net8.0\Week6Assesment.pdb
+C:\.net\Assesment6\Week6Assesment\obj\Debug\net8.0\Week6Assesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net\Assesment6\Week6Assesment\obj\Debug\net8.0\Week6Assesment.AssemblyInfoInputs.cache
+C:\.net\Assesment6\Week6Assesment\obj\Debug\net8.0\Week6Assesment.AssemblyInfo.cs
+C:\.net\Assesment6\Week6Assesment\obj\Debug\net8.0\Week6Assesment.csproj.CoreCompileInputs.cache
+C:\.net\Assesment6\Week6Assesment\obj\Debug\net8.0\Week6Assesment.dll
+C:\.net\Assesment6\Week6Assesment\obj\Debug\net8.0\refint\Week6Assesment.dll
+C:\.net\Assesment6\Week6Assesment\obj\Debug\net8.0\Week6Assesment.pdb
+C:\.net\Assesment6\Week6Assesment\obj\Debug\net8.0\Week6Assesment.genruntimeconfig.cache
+C:\.net\Assesment6\Week6Assesment\obj\Debug\net8.0\ref\Week6Assesment.dll
